@@ -1,0 +1,19 @@
+section {
+    border: 2px solid red;
+}
+
+.iphone {
+    display: flex;
+     align-items: center; /*alinhamento do eixo transversal*/
+    justify-content: center; /*alinhamento do eixo principal*/
+    gap: 4rem;  /*espaçamento entre os elemnetos do display flex*/
+}
+
+.iphone {
+    width: 20rem;
+}
+
+.iphone p {
+    width: 30rem;
+    text-align: center;
+}
